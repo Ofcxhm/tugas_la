@@ -1,0 +1,23 @@
+DATA MAHASISWA
+==================================================
+Nama    : Umar Ali Ulhaq
+NPM     : 50426936
+Jurusan : Teknik Informatika
+Email   : anjay@gmail.com
+IPK     : 3.80
+Dibuat  : 2026-11-17 07:48
+==================================================
+Nama    : Hilal Alhakim
+NPM     : 50426411
+Jurusan : Teknik Informatika
+Email   : hilapenyukajanda@gmail.com
+IPK     : 2.00
+Dibuat  : 2026-11-17 07:49
+==================================================
+Nama    : Muhammad Alfredo
+NPM     : 50426566
+Jurusan : Teknik Informatika
+Email   : edo@gmail.com
+IPK     : 3.50
+Dibuat  : 2026-11-17 07:52
+==================================================
